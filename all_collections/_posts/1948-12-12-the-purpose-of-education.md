@@ -3,6 +3,7 @@ layout: post
 title: Pang-start! Hvordan alt startet
 date: 1984-06-08 10:18:00
 categories: [Starten]
+thumbnail: "assets/images/thumb1.png"
 ---
 
 I 1984, midt i voksende bekymringer for ungdommens engasjement i kirkelige aktiviteter og mangel på samarbeid mellom forskjellige kristne trossamfunn, grunnla en gruppe kirkeledere "Menigheten" Denne interesseorganisasjonen ble etablert med et klart mål: å øke kirkedeltakelsen blant barn og unge, og å oppmuntre til tverrkirkelig arbeid.
