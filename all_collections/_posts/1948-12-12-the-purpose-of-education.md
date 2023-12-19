@@ -1,22 +1,20 @@
 ---
 layout: post
-title: The Purpose of Education
-date: 1948-12-12 10:18:00
-categories: [fiction, jekyll]
+title: Pang-start! Hvordan alt startet
+date: 1984-06-08 10:18:00
+categories: [Starten]
 ---
 
-As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+I 1984, midt i voksende bekymringer for ungdommens engasjement i kirkelige aktiviteter og mangel på samarbeid mellom forskjellige kristne trossamfunn, grunnla en gruppe kirkeledere "Menigheten" Denne interesseorganisasjonen ble etablert med et klart mål: å øke kirkedeltakelsen blant barn og unge, og å oppmuntre til tverrkirkelig arbeid.
 
 ![alt](https://picsum.photos/800/300)
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+I 1984, midt i voksende bekymringer for ungdommens engasjement i kirkelige aktiviteter og mangel på samarbeid mellom forskjellige kristne trossamfunn, grunnla en gruppe kirkeledere "Menigheten" Denne interesseorganisasjonen ble etablert med et klart mål: å øke kirkedeltakelsen blant barn og unge, og å oppmuntre til tverrkirkelig arbeid.
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+Tilnærmingen til Menigheten var pragmatisk og fokusert. De begynte med å utvikle ungdomsprogrammer som var mer i tråd med interesser og behov hos unge på den tiden. Disse programmene inkorporerte samtids-temaer og metoder, med mål om å gjøre kirkelige aktiviteter mer tiltalende og relevante for den yngre generasjonen.
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+I gjenkjennelsen av potensialet i enhet, understreket Menigheten også viktigheten av tverrkirkelig samarbeid. De organiserte fora og møter der ledere og medlemmer fra ulike kirker kunne komme sammen for å diskutere felles mål og utfordringer. Disse møtene var instrumentelle i å bygge en følelse av fellesskap og felles formål blant forskjellige kirkelige grupper.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+Effekten av Menigheten var tydelig. Kirker som deltok i deres programmer og initiativer rapporterte en økning i ungdomsdeltakelse. Det tverrkirkelige arbeidet som The Congregation hjalp med å legge til rette for, bidro til å bryte ned barrierer mellom forskjellige kirkegrupper, noe som førte til et mer forent kristent fellesskap i området.
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
-
-If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, "brethren!" Be careful, teachers!
+Over årene fortsatte Menigheten å utvikle seg, og tilpasset programmene sine for å møte nye utfordringer og muligheter. Deres engasjement for ungdomsdeltakelse og tverrkirkelig samarbeid forble konstant, og bidro betydelig til vitaliteten og relevansen av kirkesamfunn i regionen.
