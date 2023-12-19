@@ -1,23 +1,15 @@
-name: Sharad Raj
-dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+name: Menigheten
+dp: https://i.imgur.com/yjM2SZN.png
 description: "
   <p>
-    Developed by Sharad Raj who lives in India building useful things for the world.
+    En interesse orginisasjon knyttet kirke Norge. Vi tar vare på din menighet!
   </p>
   <br/>
   <p>
-    You should follow him on <a href='https://github.com/sharadcodes' target='_blank'>Github</a>
+    Les mer om hva som er en menighet <a href='https://snl.no/menighet' target='_blank'>her!</a>
   </P>
 "
-email: dev_sharad@outlook.com
+email: mail@menigheten.com
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
-  - title: github
-    url: https://github.com/sharadcodes
-  - title: twitter
-    url: https://twitter.com/iamsharadraj
-  - title: dev
-    url: https://dev.to/sharadcodes
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: mailto:mail@menigheten.com
